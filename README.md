@@ -14,7 +14,7 @@ Slow Start, Congestion Avoidance, and Loss Detection.
 2. Running the Simulation
 - Open the MATLAB script.
 - Run the file:
-    >> tcp_simulation
+    >> TCP Congestion Control.m
 - You will be prompted for inputs in the Command Window.
 - After input, two subplots will appear:
   • Top – TCP Tahoe CWND evolution

@@ -1,4 +1,3 @@
-: '
 # Simulating-TCP-Congestion-Control-in-MATLAB-Slow-Start-Avoidance-and-Detection-Techniques
 
 This project simulates the TCP congestion control mechanisms of TCP Tahoe and TCP Reno in MATLAB.
@@ -55,4 +54,3 @@ Slow Start, Congestion Avoidance, and Loss Detection.
 - Optional extension: RTT and MSS can be used to calculate throughput
 - Easy to extend for other TCP variants (e.g., NewReno, BBR)
 
-'

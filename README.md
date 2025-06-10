@@ -1,4 +1,4 @@
-# Simulating-TCP-Congestion-Control-in-MATLAB-Slow-Start-Avoidance-and-Detection-Techniques
+# Simulating TCP Congestion Control in MATLAB: Slow-Start, Avoidance, Detection Techniques
 
 This project simulates the TCP congestion control mechanisms of **TCP Tahoe** and **TCP Reno** in MATLAB.
 It provides a visual comparison of the CWND (Congestion Window) evolution under different loss events
